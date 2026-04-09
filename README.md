@@ -2,7 +2,9 @@
 Fluxo Grama e Design para solicitação de cartão de crédito
 
 
-<img width="670" height="835" alt="image" src="https://github.com/user-attachments/assets/7823c9ca-ba75-4481-8b8a-e5479f8c2ade" />
+<img width="872" height="735" alt="image" src="https://github.com/user-attachments/assets/19a5be0d-924a-4f43-aedc-45f37b4c4500" />
+
+
 
 
 
